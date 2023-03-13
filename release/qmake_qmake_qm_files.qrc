@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="QtLanguage_ru.qm">E:/HLAM/QTproject/build-pr-post-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/release/QtLanguage_ru.qm</file>
+<file alias="QtLanguage_es.qm">E:/HLAM/QTproject/build-pr-post-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/release/QtLanguage_es.qm</file>
+</qresource>
+</RCC>
